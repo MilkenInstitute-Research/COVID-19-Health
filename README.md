@@ -5,4 +5,4 @@ https://milkeninstitute-research.github.io/COVID-19-Health/
 
 # Top 100
 
-</center><iframe src="https://public.tableau.com/views/Top100_15888924314820/Dashboard1?:display_count=y&:embed=y&:display_count=yes&:toolbar=no" width="1004" height="1269" frameborder="0"></iframe></center>
+<iframe src="https://public.tableau.com/views/Top100_15888924314820/Dashboard1?:display_count=y&:embed=y&:display_count=yes&:toolbar=no" width="1004" height="1269" frameborder="0"></iframe>
